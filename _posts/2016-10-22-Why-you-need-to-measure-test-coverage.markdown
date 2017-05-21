@@ -27,6 +27,6 @@ I have only given four examples where coverage is a very good tool to use. It is
 ---
 
 I have written a Guide to Successful Unit Tests.
-You can get it here at [Leanpub][leadpub_sut]. or here at Gumroad. and read about these topics and more.
+You can get it here at [Leanpub][leadpub_sut] and read about these topics and more.
 
 [leadpub_sut]: https://leanpub.com/successfulunittest/
