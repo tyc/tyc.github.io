@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why you need to make your test coverage?"
+title:  "Why you need to measure your test coverage?"
 date:   2016-10-22 22:06:54 +0200
 categories: unit_test 
 ---
