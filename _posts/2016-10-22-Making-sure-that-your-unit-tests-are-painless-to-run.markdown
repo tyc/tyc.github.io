@@ -27,6 +27,8 @@ The more discipline way is to treat unit test fails as build errors and stop the
 
 Whatever build system you are using, spend some time to integrate the building and executing of unit tests into your build sequences. It will be worth the effort in the long run.
 
+---
+
 I have written a Guide to Successful Unit Tests.
 You can get it here at [Leanpub][leadpub_sut]. or here at Gumroad. and read about these topics and more.
 
