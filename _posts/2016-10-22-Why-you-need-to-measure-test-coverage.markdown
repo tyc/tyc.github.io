@@ -24,6 +24,8 @@ Safe path execution – not only should the code execution be covered, the path 
 
 I have only given four examples where coverage is a very good tool to use. It is the only the metric to ensure that all of your code is tested.
 
+--
+
 I have written a Guide to Successful Unit Tests.
 You can get it here at [Leanpub][leadpub_sut]. or here at Gumroad. and read about these topics and more.
 
