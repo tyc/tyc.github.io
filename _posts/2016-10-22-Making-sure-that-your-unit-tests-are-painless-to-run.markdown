@@ -2,6 +2,7 @@
 layout: post
 title:  "Making sure that your unit tests are painless to run."
 date:   2016-10-22 22:06:54 +0200
+comments: true
 categories: unit_test 
 ---
 To reduce the obstacle of using unit tests in your development flow, it is a good idea to integrate it as part of your development work flow. The lower the barrier to setting it up, the more likely unit testing is going to be used.

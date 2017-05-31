@@ -2,6 +2,7 @@
 layout: post
 title:  "Cmocka and Cmake"
 date:   2016-10-22 22:06:54 +0200
+comments: true
 categories: unit_test 
 ---
 I am using `cmocka` as the unit test framework to illustrate the concepts used in my book “a Guide to Success Unit Tests”.

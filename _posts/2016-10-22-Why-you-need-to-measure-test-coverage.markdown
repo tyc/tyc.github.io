@@ -2,6 +2,7 @@
 layout: post
 title:  "Why you need to measure your test coverage?"
 date:   2016-10-22 22:06:54 +0200
+comments: true
 categories: unit_test 
 ---
 I was at a meetup recently and I asked the question on what tools are available for measuring coverage data during a test run for an up and coming programming language. Some comments were made that coverage measurements are not that important in the scope of unit testing. I was rather taken back by this comment. Coverage measurements must be part of the data that is used how determine how successful the testing was.

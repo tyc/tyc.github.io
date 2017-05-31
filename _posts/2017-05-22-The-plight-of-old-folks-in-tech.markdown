@@ -2,6 +2,7 @@
 layout: post
 title:  "The plight of old folks in tech."
 date:   2017-05-22 22:06:54 +0200
+comments: true
 categories: jobs 
 ---
 

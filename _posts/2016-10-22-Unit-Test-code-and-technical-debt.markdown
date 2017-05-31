@@ -2,6 +2,7 @@
 layout: post
 title:  "Unit Test code and technical debt."
 date:   2016-10-22 22:06:54 +0200
+comments: true
 categories: unit_test 
 ---
 
