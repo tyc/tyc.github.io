@@ -2,6 +2,7 @@
 layout: post
 title:  "Can unit test replace a debugger?"
 date:   2016-10-22 22:06:54 +0200
+comments: true
 categories: unit_test 
 ---
 I started working in embedded systems in 1992. At that time, I have wondered if it is possible to get your code working without the need of a debugger.
