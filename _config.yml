@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Critical Overflow
+title: Execution Path
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Critical Overflow
+      title: Execution Path
 
 description: Stylish Jekyll Theme
 author:
