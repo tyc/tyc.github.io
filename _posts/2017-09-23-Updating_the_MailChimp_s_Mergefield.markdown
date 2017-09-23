@@ -14,7 +14,7 @@ To get the details about the merge data, I would use the following command. I am
 
 ```
 curl --request GET \
---url '<dc>.api.mailchimp.com/3.0/lists/cb262c7d85/merge-fields/<merge_tag_id>' \
+--url '<dc>.api.mailchimp.com/3.0/lists/<merge_list_id>/merge-fields/<merge_tag_id>' \
 --user '<username>:<api_key>'
 ```
 
@@ -24,7 +24,7 @@ The field to udpate is 'default_value'
 
 ```
 curl --request PATCH \
---url '<dc>.api.mailchimp.com/3.0/lists/cb262c7d85/merge-fields/<merge_tag_id>' \
+--url '<dc>.api.mailchimp.com/3.0/lists/<merge_list_id>/merge-fields/<merge_tag_id>' \
 --user '<username>:<api_key>'
 --header 'content-type: application/json' \
 --data '{"default_value":"Seaford Hotel Foxus"}' \
