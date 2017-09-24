@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updating the MailChimp's Mergefield"
-date:   2017-08-11 22:06:54 +0200
+date:   2017-09-23 22:06:54 +0200
 comments: true
 categories: MailChimp
 ---
