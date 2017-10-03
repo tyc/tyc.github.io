@@ -17,6 +17,12 @@ To overcome this problen, I had to copy my rsa key across to the server again. H
 
 I used the web console via the DigitalOcean's dashboard to get access to ssh configuration  
 
+Don't forget the restard the sshd so that it takes on the new configuration.
+
+{% highlight text %}
+sudo systemctl reload sshd
+{% endhighlight %}
+
 When I executed the command to copy by ssh keys across
 
 {% highlight text %}
