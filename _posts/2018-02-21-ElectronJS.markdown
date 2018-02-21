@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Electron JS, installing problems"
-date:   2017-06-19 22:06:54 +0200
+date:   2018-02-21 22:06:54 +0200
 comments: true
 categories: ElectronJS
 ---
