@@ -74,10 +74,14 @@
 		<div>
       <section class="share col-sm-6">
         <h4 class="section-title">Share Post</h4>
-        <a class="btn btn-default btn-sm twitter" href="https://twitter.com/share?text={{page.title | encode}} {{ site.url }}{{page.url }} {% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
-           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+				<a class="btn btn-default btn-sm twitter" 
+					 
+					 href="https://twitter.com/intent/tweet"
+
+					 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+					 
           <i class="fa fa-twitter fa-lg"></i>
-          Twitter
+					Twitter
         </a>
         <a class="btn btn-default btn-sm facebook" href="https://www.facebook.com/sharer/sharer.php"
            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
@@ -85,7 +89,11 @@
           Facebook
         </a>
 				<!-- removing as google sharing link is incorrect.
-        <a class="btn btn-default btn-sm gplus"
+
+					href="https://twitter.com/share?text={{page.title | encode}} {{ site.url }}{{page.url }} {% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
+
+
+					<a class="btn btn-default btn-sm gplus"
            onclick="window.open('https://plus.google.com/share?url='+window.location.href, 'google-plus-share', 'width=490,height=530');return false;">
           <i class="fa fa-google-plus fa-lg"></i>
           Google+
