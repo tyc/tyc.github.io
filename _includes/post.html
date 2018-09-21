@@ -76,7 +76,7 @@
         <h4 class="section-title">Share Post</h4>
 				<a class="btn btn-default btn-sm twitter" 
 					
-					 href="https://twitter.com/intent/tweet?text={{page.title | encode}}&url={{ site.url }}{{page.url }}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
+				href="https://twitter.com/share?text={{page.title | encode}}&url={{ site.url }}{{page.url }}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
 
 					 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
 
@@ -90,10 +90,8 @@
         </a>
 				<!-- removing as google sharing link is incorrect.
 
-					href="https://twitter.com/share?text={{page.title | encode}} {{ site.url }}{{page.url }} {% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
 
-
-					 href="https://twitter.com/intent/tweet?text={{page.title | encode}}&url={{ site.url }}{{page.url }}"
+										 href="https://twitter.com/intent/tweet?text={{page.title | encode}}&url={{ site.url }}{{page.url }}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
 
 					<a class="btn btn-default btn-sm gplus"
            onclick="window.open('https://plus.google.com/share?url='+window.location.href, 'google-plus-share', 'width=490,height=530');return false;">
