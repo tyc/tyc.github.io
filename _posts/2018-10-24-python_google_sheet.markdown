@@ -9,7 +9,7 @@ I have a spreadsheet contain data. I want to get access to that data via a pytho
 
 I found this video on youtube useful.
 
-[https://www.youtube.com/watch?v=7I2s81TsCnc][https://www.youtube.com/watch?v=7I2s81TsCnc]
+[https://www.youtube.com/watch?v=7I2s81TsCnc][link1]
 
 The video shows simple step by step on getting access to the spreadsheet data.
 
@@ -17,3 +17,6 @@ On my macos setup, I encountered a problem when installing the python packages v
 
 Google's own information on using python to get access to the Google sheet data is severly lacking step by step details. 
 
+
+
+[link1]:  https://www.youtube.com/watch?v=7I2s81TsCnc]
