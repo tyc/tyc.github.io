@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mitochondial"
+title:  "mitochondrial"
 date:   2019-03-12 22:06:54 +0200
 comments: true
 categories: mitochondrial
