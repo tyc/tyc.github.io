@@ -12,4 +12,4 @@ Most sufferers are taking in the a ketodiet. I am not 100% sure why this is good
 
 The other diet that is followed is the Paleo diet. It is high protein and provides plenty of energy.
 
-[Wikipedia for Mitochondrial Myopathy]:[https://en.wikipedia.org/wiki/Mitochondrial_myopathy]
+[Wikipedia for Mitochondrial Myopathy](https://en.wikipedia.org/wiki/Mitochondrial_myopathy)
