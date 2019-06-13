@@ -12,10 +12,10 @@ We took her to the hospital that day. She did not manage to get much sleep the n
 
 After several tests, including fluids from her spine via lumber puncture, blood tests and visual observations, it was not immediately obvious what causing this problems.
 
-After one week, the doctor announced that they suspected Mitochondrial Myopathy. [0]
+After one week, the doctor announced that they suspected Mitochondrial Myopathy. [link][0]
 
 Looking back from when the first incident occurred 18 years ago, it started to make sense that this might be the right diagnosis.
 
 More diagnosis is needed via a specialist doctors are UniKlinikBonn.
 
-[0] - https://en.wikipedia.org/wiki/Mitochondrial_myopathy
+[0]: https://en.wikipedia.org/wiki/Mitochondrial_myopathy
