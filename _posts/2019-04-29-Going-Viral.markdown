@@ -35,4 +35,4 @@ profile clicks - 45
 Although it was no way close to what @benhalpern had got, it was by far my most popular tweets.
 
 
-[0] - https://twitter.com/tehnyit/status/1116077649800171520
+[My viral tweet reply](https://twitter.com/tehnyit/status/1116077649800171520)
