@@ -1,38 +1,15 @@
 ---
 layout: post
-title:  "When you tweet goes viral"
+title:  "Assuming"
 date:   2018-06-13 22:06:54 +0200
 comments: true
-categories: side projects 
+categories: Project Management 
 ---
 
-The momentous event occurred a some weeks ago. The announcement of the picture of the black hole took place. That was such an amazing event. A picture was taken of something that was once thought to be impossible to take a picture of. Kudos to Katie Bouman
+When you start your working life, there are a many things that you will to make a decision on. This never stops and at times, it will get harder and harder.
 
-Another related event took place a few weeks ago, it was 10th April 2019 at 1.37pm, I replied to a tweet from @bendhalpern. He posted a two side by side famous pictures of Margaret Hamilton and Katie Bouman.
+THe questions that at sometimes every easy to decide. What will I have for lunch today? I could easy answer by just select one of the options on the menu. That is an easy decision to make.
 
-I replied with a tweet [0]
+There are times where the decision is not that easy make.
 
- Margaret's code took us away from planet earth.
- Katie's data arrived into planet earth.
- The Yin and The Yang.
-
-Never this I know that it got a little success.
-
-As of the writing of this post, the original tweet from @benhalpern got
-
-replies - 950
-retweets - 170K
-likes - 436K
-
-Very impressive indeed. My reply got
-
-replies - 1
-retweets - 45
-likes - 692
-impression s- 187733
-profile clicks - 45
-
-Although it was no way close to what @benhalpern had got, it was by far my most popular tweets.
-
-
-[0] - https://twitter.com/tehnyit/status/1116077649800171520
+When I make the that hard decision, there are many things that go through my mind. The biggest thing that goes through my mind is how the impact of that decison. If the impact is small or minimal, and is obvious, then the decision is easy to make.  
