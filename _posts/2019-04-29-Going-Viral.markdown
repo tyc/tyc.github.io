@@ -20,19 +20,19 @@ Never this I know that it got a little success.
 
 As of the writing of this post, the original tweet from @benhalpern got
 
-replies - 950
-retweets - 170K
-likes - 436K
+* replies - 950
+* retweets - 170K
+* likes - 436K
 
 Very impressive indeed. My reply got
 
-replies - 1
-retweets - 45
-likes - 692
-impression s- 187733
-profile clicks - 45
+* replies - 1
+* retweets - 45
+* likes - 692
+* impressions - 187733
+* profile clicks - 45
 
-Although it was no way close to what @benhalpern had got, it was by far my most popular tweets.
+Although it was no way close to what [@benhalpern](https://twitter.com/bendhalpern) had got, it was by far my most popular tweets.
 
 
 [My viral tweet reply](https://twitter.com/tehnyit/status/1116077649800171520)
