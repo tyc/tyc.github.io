@@ -21,4 +21,10 @@ I come across this question in StackOverflow asking the same question that I nee
 
 [StackOverQuestion](https://askubuntu.com/questions/598236/ubuntu-wakes-up-after-few-seconds-of-sleep)
 
-I followed the instruction. I had two devices waking up the Intel NUC. I disabled both of them and the Intel NUC was stay a sleep. 
+I followed the instruction. I had two devices waking up the Intel NUC. I disabled both of them and the Intel NUC was staying asleep. So I knew it was one of these two that kept waking up the system.
+
+The two devices that were enabled were GLAN and XHC. By the process of disabling one of them and checking if the computer stayed asleep, I was able to determine that the XHC device was the culprit here.
+
+Doing a futher googling, I came across this [article](https://codeyarns.com/2017/04/16/the-strange-case-of-the-notebook-that-woke-up-at-night/) where the system is also behaving in a similar manner. This author tracked it down to his wireless mouse waking the system due to vibrations.
+
+His solution was to also disable the XHC device. By the way, XHC is the USB3.0 devices. This article shows a way to permanent set it so that the XHC wakeup is disabled.
