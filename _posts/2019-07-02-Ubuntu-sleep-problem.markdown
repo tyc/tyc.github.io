@@ -28,3 +28,9 @@ The two devices that were enabled were GLAN and XHC. By the process of disabling
 Doing a futher googling, I came across this [article](https://codeyarns.com/2017/04/16/the-strange-case-of-the-notebook-that-woke-up-at-night/) where the system is also behaving in a similar manner. This author tracked it down to his wireless mouse waking the system due to vibrations.
 
 His solution was to also disable the XHC device. By the way, XHC is the USB3.0 devices. This article shows a way to permanent set it so that the XHC wakeup is disabled.
+
+
+With Employee Activism On the Rise: What’s a CEO to Do?
+Why we re-designed our engineering career paths at CircleCI
+From Software Engineer to Engineering Manager
+Why It’s Hard to Find a Mentor

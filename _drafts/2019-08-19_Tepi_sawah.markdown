@@ -20,4 +20,10 @@ After the car park, there is a building that houses a kitchen only. There is whe
 
 The villa for the guests is located at the bottom of the slope. The villa has two rooms on opposite of the building. The rooms are connected by an outdoor area where the guests can sit, and ponder and admire the view.
 
+We took the bedrooms on the left hand side and the kids took the right hand bedrooms. The rooms are clean. A king size bed is in the room, and it is covered with a mosquito net. The bed is very conformtable. We stayed four nights and I had a comfortable sleep each of these nghts.
 
+The mosquito net is very helpful. The villa is surrounded by rice paddies that are full of water, bearing plenty of mosquitos and other insects. The mosquito net helps to keep those insects out when you are fast asleep.
+
+Around the villa, the guests are free to roam the area and explore the nearby forests. I walked across the rice paddies and into the nearby forests. It is not a full full forest as it is occupied by a neighbour. During the morning hours, you can see the neighbour walking around, and collecting fruits from the trees. 
+
+Around the rice paddies, you can observed several type of animals. I saw a small snake. At first sighting, I was rather scared to think that the snake could slither into the villa. After speaking to the local staff, they rarely do that and keep to themselves in the rice paddies. 
