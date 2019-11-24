@@ -8,7 +8,8 @@ categories: ProjectManagement
 
 The following post was published in my [Project Management Weekly CW39](https://mailchi.mp/4cbecaa985d2/2019pwm-360199?e=29ce9c9879) newsletter.
 
-:
+---
+
 Hello Managers!
 
 Project momentum is a measure of the pace at which the project is progressing. Without a good and sustainable momentum, your project will suffer and increases it chances of failure.
@@ -25,6 +26,7 @@ How have you dealt with project momentum, did you have any unwanted changes to t
 
 Hope you enjoy these articles!
 
+---
 
 If you got some value out of this post, subscribe to the newsletter for this [subscription link](https://mailchi.mp/8e0622427dd5/prjmgrwkly)
 
