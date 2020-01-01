@@ -14,7 +14,7 @@ Speaking is usually much faster, and the impact immediate. If the recipient is a
 
 However, when you need to write the message, some magic occurs. When I have to write the message, I tend to slow my thinking down and put some thought how I want to articulate the message. Usually, it makes the message much clearer, and less prone to mis-interpretation.
 
-Jeff Bezos mandates that before his meeting takes place (link)[http://blog.idonethis.com/jeff-bezos-self-discipline-writing/], a printed memo is circulated prior. The attendees read it quietly for 30 minutes. A couple of things happen here. The memo writer must be focus in articulating the memo in a clear and concise way so that everyone can understand it in 30 minutes. The other thing that happen is the attendee will focus on the meeting after reading the memo.
+Jeff Bezos mandates that before his meeting takes place [link](http://blog.idonethis.com/jeff-bezos-self-discipline-writing/), a printed memo is circulated prior. The attendees read it quietly for 30 minutes. A couple of things happen here. The memo writer must be focus in articulating the memo in a clear and concise way so that everyone can understand it in 30 minutes. The other thing that happen is the attendee will focus on the meeting after reading the memo.
 
 Personally, putting my thoughts on paper helps me to process the thoughts. Once it has gone through that process, it will help me speaking about it later on. This is a good strategy when going into meetings.
 
