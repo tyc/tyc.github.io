@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Assuming"
-date:   2018-06-13 22:06:54 +0200
+date:   2020-01-11 22:06:54 +0200
 comments: true
-categories: Project Management 
+categories: ProjectManagement 
 ---
 
 When you start your working life, there are a many things that you will to make a decision on. This never stops and at times, it will get harder and harder.
