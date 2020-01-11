@@ -8,7 +8,7 @@ categories: Project Management
 
 When you start your working life, there are a many things that you will to make a decision on. This never stops and at times, it will get harder and harder.
 
-THe questions that are sometimes every easy to decide. What will I have for lunch today? I could easy answer by just select one of the options on the menu. That is an easy decision to make.
+The questions that are sometimes every easy to answer. What will I have for lunch today? I could easy answer by just select one of the options on the menu. That is an easy decision to make.
 
 There are times where the decision is not that easy make.
 
@@ -18,10 +18,10 @@ Assumption is also a dangerous practice. At the most basic level, what you are d
 
 When I need to make an assumption, I would that the following steps.
 
-The first thing I want to do is to ensure that assumption can be avoided. This would be the best scenario where I would use the actual data for my decision. There is not guessing what is the data.
+The first thing I want to do is to ensure that assumption can be avoided. This would be the best scenario where I would use the actual data for my decision. There is no guessing what is the data.
 
-If making an assumption is unavoidable, I would look for secondary data that would help the making the assumption. This is called an qualified assumption. With a qualified assumption, there is data backing up the assumption. This assumption is much more risker than an unqualified assumption.
+If making an assumption is unavoidable, I would look for secondary data that would help the making the assumption. This is called an qualified assumption. With a qualified assumption, there is data backing up the assumption. This assumption is much less risker than an unqualified assumption.
 
-The absolute last resort would be to make the assumption that is unqualified and have not sustances behind it. I would avoid this option as its impact could be very critical if the assumption is wrong.
+The absolute last resort would be to make the assumption that is unqualified and have no sustance behind it. I would avoid this option as its impact could be very critical if the assumption is wrong.
 
 To close out this post, let me ask you a couple of things that is related to assumptions. Think on the events that went wrong for you, and see what kind assumptions you made that triggered that bad event.
