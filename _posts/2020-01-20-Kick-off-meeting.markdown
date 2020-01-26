@@ -20,3 +20,6 @@ The kick off meeting must be have the right participants. If the budget is avail
 
 The humanistic aspect of the kick off meeting is critically important. If the individual in your team works well with others, the project has a much higher chance of success.
 
+---
+
+If you got some value out of this post, subscribe to the newsletter for this [subscription link](https://mailchi.mp/8e0622427dd5/prjmgrwkly)
