@@ -8,11 +8,11 @@ categories: ProjectManagement
 
 Setting milestones are important for the team's vision and target. The team's vision is why the project is being executed, and the target is what the team needs to do to achieve the vision.
 
-By setting milestones, tasks of acheiving the vision and the target are broken into smaller phases. The phases should be small enough so that it can easily reached.
+By setting milestones, tasks of achieving the vision and the target are broken into smaller phases. The phases should be small enough so that it can easily reached.
 
 There are two important aspects of a milestone, the deadline and the deliverable. When working on setting the milestones, it is important to have clarity both of these two points. With clarity, you can see the flow needed to meet it. 
 
-Deadline and deliverable are dependable on each other. These means that the deadline should be plausable checked against its deliverable or the deliverable should be plausable checked against the deadline.
+Deadline and deliverable are dependable on each other. These means that the deadline should be plausible checked against its deliverable or the deliverable should be plausible checked against the deadline.
 
 The deadline is useless if the deliverables scheduled are not possible by the deadline, or vice versa.
 
