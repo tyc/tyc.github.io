@@ -6,7 +6,6 @@ comments: true
 categories: ProjectManagement 
 ---
 
-Working hours for a someone is between 35 to 40 hours per week. This is 7 hours per day or 8 hours per day.
 
 I came across a tweet by [@brunolemos](https://twitter.com/brunolemos), he said that he rather work 4 hours per day for 80K instead of 150K for 8 hours per day.
 
