@@ -6,6 +6,9 @@ comments: true
 categories: ProjectManagement 
 ---
 
+This post was published in the [CW07](https://mailchi.mp/55b46ffc07cb/2020pwm-cw07) edition of the Project Management Weekly.
+---
+
 Setting milestones are important for the team's vision and target. The team's vision is why the project is being executed, and the target is what the team needs to do to achieve the vision.
 
 By setting milestones, tasks of achieving the vision and the target are broken into smaller phases. The phases should be small enough so that it can easily reached.
